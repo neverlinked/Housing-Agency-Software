@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AgreementCreator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ComplaintCreator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EventCreator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExpensesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HouseRules.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginFormStyled.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManagerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MyProfileForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SupportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TenantForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControlBlank.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlDays.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ViewAgreement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewAgreements.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
